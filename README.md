@@ -21,10 +21,17 @@
     Text is XOR-encrypted using the key
     Binary output is converted to HEX
 ### 🔐 Encrypt Screen
+<p align="center">
+  <img src="images/encrypt.png" width="300">
+</p>
 ![Encrypt](images/encrypt.png)
 ## 3. Clicking Decrypt:
     HEX input is converted back to binary
     XOR operation restores the original text
 ### 🔓 Decrypt Screen
 ![Decrypt](images/decrypt.png)
+
+<p align="center">
+  <img src="images/decrypt.png" width="300">
+</p>
 
