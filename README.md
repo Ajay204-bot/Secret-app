@@ -21,9 +21,6 @@
     Text is XOR-encrypted using the key
     Binary output is converted to HEX
 ### 🔐 Encrypt Screen
-<p align="center">
-  <img src="images/encrypt.png" width="300">
-</p>
 ![Encrypt](images/encrypt.png)
 ## 3. Clicking Decrypt:
     HEX input is converted back to binary
@@ -35,3 +32,6 @@
   <img src="images/decrypt.png" width="300">
 </p>
 
+<p align="center">
+  <img src="images/encrypt.png" width="300">
+</p>
