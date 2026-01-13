@@ -1,4 +1,4 @@
-## XOR Encrypt / Decrypt Web App
+## 🔐 XOR Encrypt / Decrypt Web App
 
 ### A simple, mobile-responsive web application that allows users to encrypt and decrypt strings using XOR-based symmetric encryption.
 ### Built using HTML, CSS, and JavaScript, this project demonstrates core concepts of encryption logic, string manipulation, and responsive UI design.
@@ -17,21 +17,19 @@
 
 ## How It Works
 ### 1. User enters a plain text and a secret key
+
 ### 2. Clicking Encrypt:
     Text is XOR-encrypted using the key
     Binary output is converted to HEX
 ### 🔐 Encrypt Screen
-![Encrypt](images/encrypt.png)
-## 3. Clicking Decrypt:
+<p align="center">
+  <img src="images/encrypt.png" width="300">
+</p>
+
+ ### 3. Clicking Decrypt:
     HEX input is converted back to binary
     XOR operation restores the original text
 ### 🔓 Decrypt Screen
-![Decrypt](images/decrypt.png)
-
 <p align="center">
   <img src="images/decrypt.png" width="300">
-</p>
-
-<p align="center">
-  <img src="images/encrypt.png" width="300">
 </p>
